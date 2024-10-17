@@ -1,0 +1,3 @@
+venv
+llm/Meta-Llama-3-8B-Instruct.Q4_0.gguf
+faiss_db
